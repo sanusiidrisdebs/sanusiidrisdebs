@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanusiidrisdebs
-- 👀 I’m interested in data science
+- 👀 I’m interested in data analytics
 - 🌱 I’m currently learning python,sql and power bi
 - 💞️ I’m looking to collaborate on data analytics and data engineering
 - 📫 How to reach me is through my mail sanusiidrisdebs@gmail.com
