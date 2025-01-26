@@ -1,3 +1,5 @@
+Project file : https://lookerstudio.google.com/s/kuO08EIPLoI
+
 What
 
 In this project, I developed a predictive model to analyze employee attrition within an organization. The goal was to predict which employees are likely to leave, based on various factors such as job satisfaction, department, tenure, age, and other demographic and work-related features. Understanding these patterns can help HR teams proactively manage retention strategies and improve employee satisfaction.
